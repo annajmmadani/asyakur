@@ -1,0 +1,36 @@
+.slider h3,
+.slider h5,
+.kajian h3 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.parallax-container {
+    height:auto;
+}
+
+.parallax img {
+    /* filter: grayscale(3); */
+    opacity: 1 !important;
+}
+
+.kajian img {
+    /* max-width: 150px; */
+    width: 130px;
+    height: 200px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.2));
+}
+
+/* .kegiatan img {
+    border-style: groove;
+    width: auto;
+    max-height: 150px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+} */
+
+section {
+    padding: 20px 0;
+}
+
+footer {
+    padding: 3px 0px;
+}
